@@ -9,7 +9,7 @@
 отчеты хранятся в каталоге `report`
 
 Проект разворачивается в две команды:
-1) git clone https://git.m2ss.ru/developers/sms-gate-js
+1) git clone https://github.com/dev-null-user/huawei-sms-gate
 2) npm install
 3) forever start sms-gate.js
 
